@@ -1,6 +1,8 @@
 # 30-days-of-revision-code
 
-This repository will contain the answers of the revised solved problems, i.e., I have solved more than 30 questiions in leetcode only and now its time to revise the solved problems. So, I have made this repo to stay consistent about my work.
+This repository will contain the answers of the revised solved problems, i.e., I have solved more than 30 questiions in leetcode only and now its time to revise the solved problems. So, I have made this repo to stay consistent in my work.
+
+I have continued this work as 60-days-of-Code-Challenge. Repository has been created.
 
 Starting date is 09/08/2022
 
